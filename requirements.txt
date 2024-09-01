@@ -1,0 +1,8 @@
+gradio 
+opencv-python-headless 
+ffmpeg-python 
+openai-whisper 
+spacy 
+torch 
+transformers 
+diffusers
